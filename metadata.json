@@ -1,0 +1,5 @@
+{
+  "name": "MIDI Waterfall Visualizer",
+  "description": "An interactive web application that visualizes MIDI files as a beautiful waterfall piano video, inspired by popular piano tutorial formats. Upload a MIDI file to see the notes fall in a stunning neon display and bring your music to life.",
+  "requestFramePermissions": []
+}
